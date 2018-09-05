@@ -12,6 +12,6 @@ Solidity Tutorial: https://cryptozombies.io/
 
 Smart Contract Best Practices: https://consensys.github.io/smart-contract-best-practices/
 
-Smart Contracting Exploitation: https://capturetheether.com/
+Smart Contract Exploitation: https://capturetheether.com/
 
 More Resources: https://github.com/bkrem/awesome-solidity
